@@ -1,0 +1,4 @@
+19:58:25.891 [main] DEBUG sravaniAcademy.Log4jPractise.Demo - im debugging
+19:58:25.894 [main] INFO  sravaniAcademy.Log4jPractise.Demo - object is present
+19:58:25.894 [main] ERROR sravaniAcademy.Log4jPractise.Demo - not present
+19:58:25.894 [main] FATAL sravaniAcademy.Log4jPractise.Demo - fatal
