@@ -16,6 +16,7 @@ public class Demo {
 		log.info("object is present");
 		log.error("not present");
 		log.fatal("fatal");
+		log.fatal("new msg");
 		
 	}
 	}
